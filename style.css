@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+    padding-top: 1.5rem;
+  }
+  
+#gr-container {
+    max-width: 512px;
+    margin: auto;
+    padding-top: 1rem;
+}
